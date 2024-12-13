@@ -1,0 +1,6 @@
+.env
+venv
+.idea
+encryption.py
+staticfiles
+__pycache__
